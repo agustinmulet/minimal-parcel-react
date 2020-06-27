@@ -1,0 +1,12 @@
+#Dependencies
+node_modules/
+
+#Parcel-generated folders
+.cache/
+dist/
+
+#Environment variables
+.env
+
+#VSCode config
+.vscode/
